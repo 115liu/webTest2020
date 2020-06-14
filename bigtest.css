@@ -1,0 +1,183 @@
+/*
+* @Author: 兆兴
+* @Date:   2020-06-12 12:41:30
+* @Last Modified by:   兆兴
+* @Last Modified time: 2020-06-14 12:33:26
+*/
+/* 公共样式表 */
+
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    }
+.jay{
+	width: 1920px;
+	height: 90px;
+	margin: 0 auto;
+}
+.headtop{
+	background-color: black;
+	width: 1920px;
+	height: 25px;
+	color: white;
+	margin: 0 auto;
+}
+.headtop a{
+	color: white;
+}
+.head{
+	width: 1200px;
+	height: 110px;
+	margin: 0 auto;
+	background-color: #ffffff;
+}
+.input{
+	width: 570px;
+	height: 40px;
+	border: 1px solid #ff0036;
+	float: left;
+	margin-top: 30px;
+}
+.neck{
+	width: 1920px;
+	height: 420px;
+	margin: 0 auto;
+	background-image: url('bigtestimg/bigbg.jpg');
+}
+.nav2{
+	width: 190px;
+	height: 420px;
+	background-color: rgba(0, 0, 0, 0.4);
+	float: left;
+	margin-left: 60px;
+}
+.a1{
+	height: 35px;
+	width: 150px;
+	text-align: center;
+	border-radius: 5px;
+	margin: 9px auto auto  auto;
+	border: 1px solid #ffffff;
+}
+.a1 a{
+	color: white;
+	font-size: 22px;
+	text-decoration: none;
+}
+.a1:hover{
+	background-color: #ff0036;
+}
+.small{
+	width: 1200px;
+	margin: 0 auto;
+	height: 335px;
+}
+.small img{
+	width: 118px;
+	height: 110px;
+	float: left;
+	border: 1px solid gray;
+}
+.dao{
+	width: 40px;
+	height: 380px;
+	position: fixed;
+	top: 20%;
+	right: 0%;
+	text-align: center;
+}
+.dao div{
+	background-color: rgba(0, 0, 0, 0.4);
+	height: 42px;
+	width: 40px;
+	border-bottom: 2px solid #ffffff;
+}
+.dao div:hover{
+	background-color: #ff0036;
+}
+.dao p{
+	color: white;
+}
+.body-top1{
+	width: 1375px;
+	height: 350px;
+	background-color: white;
+}
+.body-top2{
+	width: 1375px;
+	height: 350px;
+	background-color: white;
+}
+.p1{
+	width: 275px;
+	height: 350px;
+	text-align: center;
+	float: left;
+}
+.p2{
+	width: 275px;
+	height: 350px;
+	text-align: center;
+	float: left;
+}
+.body1{
+	width: 1375px;
+	height: 700px;
+	margin: 0 auto;
+	border: 1px solid gray;
+	background-color: red;
+}
+.foot{
+	width: 1920px;
+	height: 500px;
+	margin: 0 auto;
+	background-color: white;
+}
+.ftop{
+	height: 150px;
+	width: 1200px;
+	margin: 0 auto;
+	background-color: pink;
+}
+.chou{
+	width: 300px;
+	height: 150px;
+	float: left;
+	text-align: center;
+}
+.fmiddle{
+	width: 1375px;
+	height: 300px;
+	border-top: 2px solid red;
+	margin: 0 auto;
+	background-color: white;
+}
+.lzx{
+	width: 200px;
+	height: 300px;
+	float: left;
+	padding-right: 191px;
+	text-align: center;
+}
+.fmiddle a{
+	color: gray;
+}
+.zkx{
+	width: 200px;
+	height: 300px;
+	float: right;
+	text-align: center;
+}
+.mbody{
+	background-color: red;
+	height: 1080px;
+}
+.ffoot{
+	background-color: #000000;
+	height: 300px;
+	border-top: 3px solid red;
+}
+.ffoot a{
+	color: white;
+}
